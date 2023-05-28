@@ -7,5 +7,7 @@ public class cart {
 
     //promo codee
 
+    //added  new deals for cart
+
 
 }
